@@ -1,8 +1,8 @@
 # Implement a Sudoku Solver From Scratch Using Python
 
-Name: Mohammed Saajid S
+Name: THARUN V K
 
-Register Number: 212223240093
+Register Number: 212223230231
 
 ## Steps to solve the Sudoku Puzzle in Python
 <ol>
